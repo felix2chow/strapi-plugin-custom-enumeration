@@ -1,0 +1,6 @@
+{
+  "multi-select.label": "枚举",
+  "multi-select.description": "列出一些值，然后选择一个",
+  "multi-select.enum.label": "选项 (每行一个)，支持中文",
+  "multi-select.enum.description": "每行输入一个选项。你也可以添加一个值和一个标签，中间用冒号分隔（例如，“label: value”）。如果没有提供值，标签将被用作值。"
+}
