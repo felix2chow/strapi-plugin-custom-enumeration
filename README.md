@@ -1,9 +1,12 @@
+# 修复了原始的插件不符合短横线分隔规范 Plugin name "custom enumeration" is not in kebab-case
+
 # Strapi plugin custom enumeration
 
 Supper chinese.
 支持中文的枚举
 
 ### CHANGELOG
+
 改了一下 strapi-plugin-multi-select，改成单选了
 
 ```
